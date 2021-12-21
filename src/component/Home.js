@@ -6,6 +6,7 @@ import LinkedIn from "@material-ui/icons/LinkedIn";
 import MailIcon from "@material-ui/icons/Mail";
 import MyWork from "./MyWork";
 import Demo from "./Demo";
+import Academic from "./Academic";
 // import MailIcon from "@mui/icons-material/Mail";
 
 function Home() {
@@ -68,6 +69,7 @@ function Home() {
       </Wrapper>
       <MyWork />
       <Demo />
+      <Academic />
     </>
   );
 }

@@ -7,7 +7,7 @@ function Demo() {
   return (
     <>
       <MyWorkExperience style={{ backgroundColor: "#cff1ff" }}>
-        <h1>My Demo</h1>
+        <h1>Demo Projects</h1>
         <div
           style={{
             backgroundColor: "white",

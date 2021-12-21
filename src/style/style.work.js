@@ -16,3 +16,15 @@ export const Img = styled.img`
   width: 10%;
   height: 20%;
 `;
+export const WorkInfoContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  background-color: white;
+  color: #ff5f00;
+  line-height: 35px;
+  border-radius: 15px;
+  padding: 40px;
+  font-size: 18px;
+`;
