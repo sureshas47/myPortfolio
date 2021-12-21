@@ -1,7 +1,6 @@
 import React from "react";
 import { MyWorkExperience } from "../style/style.work";
 import DemoCart from "./DemoCart";
-import { Img } from "../style/style.work";
 
 function Demo() {
   return (

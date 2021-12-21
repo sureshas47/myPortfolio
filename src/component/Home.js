@@ -22,7 +22,11 @@ function Home() {
           <small>connect-with-me</small>
         </p>
         <div>
-          <a href="https://facebook.com">
+          <a
+            href="https://www.facebook.com/suresh.adhikari.52/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <FacebookIcon
               style={{
                 borderRadius: "100%",
@@ -33,7 +37,11 @@ function Home() {
               fontSize="small"
             />
           </a>
-          <a href="https://github.com">
+          <a
+            href="https://github.com/sureshas47"
+            target="_blank"
+            rel="noreferrer"
+          >
             <GitHub
               style={{
                 borderRadius: "100%",
@@ -43,7 +51,11 @@ function Home() {
               }}
             />
           </a>
-          <a href="https://linkedin.com">
+          <a
+            href="https://www.linkedin.com/in/suresh-adhikari-4a96b5114/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <LinkedIn
               style={{
                 borderRadius: "100%",
@@ -53,9 +65,14 @@ function Home() {
               }}
             />
           </a>
-          <a href="https://gmail.com" alt="Gmail">
+          <a
+            href="https://adh.suresh47@gmail.com"
+            target="_blank"
+            rel="noreferrer"
+            alt="Gmail"
+          >
             <MailIcon
-              //   color="secondary"
+              // color="secondary"
               style={{
                 borderRadius: "100%",
                 fontSize: 50,
